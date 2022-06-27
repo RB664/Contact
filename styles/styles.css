@@ -49,3 +49,8 @@ main {
     text-align: center;
     background-image: none;
 }
+
+style {
+    opacity: 0.5;
+}
+
